@@ -19,3 +19,6 @@ docker compose build
 ```
 docker compose up -d
 ```
+
+### 動作確認
+http://localhost:3000/
